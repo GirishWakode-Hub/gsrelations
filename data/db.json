@@ -1,0 +1,1200 @@
+{
+  "clients": [
+    {
+      "id": "cli-1",
+      "name": "Niramaya BioDiagnostics",
+      "company": "Niramaya AI Therapeutics Ltd.",
+      "email": "press@niramayabiotech.in",
+      "industry": "Healthcare",
+      "logoText": "NIRAMAYA BIO",
+      "status": "ACTIVE",
+      "joinedDate": "2024-02-15",
+      "activeCampaignsCount": 2,
+      "portalAccess": true,
+      "dedicatedLead": "Priya Sengupta",
+      "assignedDirector": "Rajesh Malhotra",
+      "retainerAmount": "₹6,50,000/mo",
+      "brandSummary": "Pioneering AI-guided liquid biopsy oncological diagnostics and multi-marker genomic screening across AIIMS and Apollo networks."
+    },
+    {
+      "id": "cli-2",
+      "name": "BharatQuantum Dynamics",
+      "company": "BharatQuantum Systems Pvt. Ltd.",
+      "email": "media@bharatquantum.in",
+      "industry": "Technology",
+      "logoText": "BHARAT QUANTUM",
+      "status": "ACTIVE",
+      "joinedDate": "2024-01-10",
+      "activeCampaignsCount": 2,
+      "portalAccess": true,
+      "dedicatedLead": "Rajesh Malhotra",
+      "assignedDirector": "Vikram Singhania",
+      "retainerAmount": "₹8,00,000/mo",
+      "brandSummary": "India’s first commercial cryogenic quantum computing architecture for BFSI optimization and defense cryptographic resilience."
+    },
+    {
+      "id": "cli-3",
+      "name": "Samriddhi Sustainable Wealth",
+      "company": "Samriddhi Asset Management LLP",
+      "email": "ir@samriddhiwealth.com",
+      "industry": "Finance",
+      "logoText": "SAMRIDDHI WEALTH",
+      "status": "ACTIVE",
+      "joinedDate": "2023-11-20",
+      "activeCampaignsCount": 1,
+      "portalAccess": true,
+      "dedicatedLead": "Vikram Singhania",
+      "assignedDirector": "Rajesh Malhotra",
+      "retainerAmount": "₹7,50,000/mo",
+      "brandSummary": "Institutional ESG index fund and sovereign wealth advisor managing ₹38,000 Cr in green infrastructure portfolios."
+    },
+    {
+      "id": "cli-4",
+      "name": "Veda Living & Design",
+      "company": "Veda Craft & Architecture LLP",
+      "email": "pr@vedaliving.in",
+      "industry": "Consumer",
+      "logoText": "VEDA DESIGN",
+      "status": "ACTIVE",
+      "joinedDate": "2024-04-01",
+      "activeCampaignsCount": 1,
+      "portalAccess": true,
+      "dedicatedLead": "Ananya Iyer",
+      "assignedDirector": "Priya Sengupta",
+      "retainerAmount": "₹4,50,000/mo",
+      "brandSummary": "Circular-economy luxury interiors blending heritage Indian artisanal brassware with sustainable acoustic mycelium materials."
+    },
+    {
+      "id": "cli-5",
+      "name": "Garuda Robotics India",
+      "company": "Garuda Industrial Automation Ltd.",
+      "email": "press@garudarobotics.in",
+      "industry": "AI & Robotics",
+      "logoText": "GARUDA ROBOTICS",
+      "status": "ACTIVE",
+      "joinedDate": "2024-05-18",
+      "activeCampaignsCount": 2,
+      "portalAccess": true,
+      "dedicatedLead": "Priya Sengupta",
+      "assignedDirector": "Vikram Singhania",
+      "retainerAmount": "₹9,00,000/mo",
+      "brandSummary": "Autonomous humanoid supply chain robots and heavy industrial payload systems deployed in automotive gigafactories."
+    },
+    {
+      "id": "cli-6",
+      "name": "Prithvi Green Hydrogen",
+      "company": "Prithvi Clean Energy Holdings",
+      "email": "info@prithvigreen.in",
+      "industry": "Corporate",
+      "logoText": "PRITHVI ENERGY",
+      "status": "ACTIVE",
+      "joinedDate": "2023-09-14",
+      "activeCampaignsCount": 1,
+      "portalAccess": true,
+      "dedicatedLead": "Rajesh Malhotra",
+      "assignedDirector": "Rajesh Malhotra",
+      "retainerAmount": "₹12,00,000/mo",
+      "brandSummary": "India’s largest green hydrogen electrolyzer manufacturing corridor in Gujarat and Rajasthan with ISRO-certified carbon accounting."
+    },
+    {
+      "id": "cli-7",
+      "name": "Setu Cloud Telecom",
+      "company": "Setu Satellite Networks India",
+      "email": "comms@setunetworks.in",
+      "industry": "Startups",
+      "logoText": "SETU TELECOM",
+      "status": "ONBOARDING",
+      "joinedDate": "2024-07-01",
+      "activeCampaignsCount": 1,
+      "portalAccess": true,
+      "dedicatedLead": "Vikram Singhania",
+      "assignedDirector": "Priya Sengupta",
+      "retainerAmount": "₹5,00,000/mo",
+      "brandSummary": "Low-Earth-orbit satellite mesh broadband connecting remote Indian maritime shipping corridors and rural public health centers."
+    },
+    {
+      "id": "cli-8",
+      "name": "Vayu Aerospace eVTOL",
+      "company": "Vayu Advanced Mobility Ltd.",
+      "email": "media@vayuflight.in",
+      "industry": "Technology",
+      "logoText": "VAYU AERO",
+      "status": "ACTIVE",
+      "joinedDate": "2024-02-28",
+      "activeCampaignsCount": 1,
+      "portalAccess": true,
+      "dedicatedLead": "Rajesh Malhotra",
+      "assignedDirector": "Rajesh Malhotra",
+      "retainerAmount": "₹8,50,000/mo",
+      "brandSummary": "DGCA-certified zero-emission electric vertical takeoff (eVTOL) air ambulance and inter-city urban air mobility fleet."
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "cmp-1",
+      "clientId": "cli-1",
+      "clientName": "Niramaya BioDiagnostics",
+      "name": "Series B & AI Oncology Screening National Launch",
+      "status": "IN_PROGRESS",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-30",
+      "objective": "Announce ₹375 Cr Series B funding and multi-hospital clinical validation results across Tier-1 medical & business outlets.",
+      "progress": 82,
+      "targetOutlets": [
+        "The Economic Times",
+        "Mint",
+        "NDTV Profit",
+        "CNBC-TV18",
+        "YourStory",
+        "The Times of India"
+      ],
+      "metrics": {
+        "mentions": 42,
+        "reach": "12.4M",
+        "engagement": "+76%",
+        "sentimentPercent": 97,
+        "trafficIncrease": "+64%"
+      },
+      "highlights": [
+        "Secured exclusive lead feature in The Economic Times Tech section front page",
+        "Dr. Alok Verma interviewed live on CNBC-TV18 Young Turks segment",
+        "Featured on YourStory deep-dive with 65k unique reads in 48 hours"
+      ]
+    },
+    {
+      "id": "cmp-2",
+      "clientId": "cli-2",
+      "clientName": "BharatQuantum Dynamics",
+      "name": "Commercial Cryo-Core Quantum Architecture Unveiling",
+      "status": "MEDIA_OUTREACH",
+      "startDate": "2024-07-15",
+      "endDate": "2024-10-15",
+      "objective": "Position BharatQuantum as India’s sovereign deeptech leader for BFSI fraud detection and cryptographic security.",
+      "progress": 65,
+      "targetOutlets": [
+        "Business Standard",
+        "The Indian Express",
+        "Mint",
+        "NDTV Profit",
+        "Entrackr",
+        "TechCircle"
+      ],
+      "metrics": {
+        "mentions": 31,
+        "reach": "8.6M",
+        "engagement": "+62%",
+        "sentimentPercent": 95,
+        "trafficIncrease": "+48%"
+      },
+      "highlights": [
+        "Cover story on Business Standard weekend technology special",
+        "Special feature on NDTV Profit exploring India’s National Quantum Mission synergies"
+      ]
+    },
+    {
+      "id": "cmp-3",
+      "clientId": "cli-5",
+      "clientName": "Garuda Robotics India",
+      "name": "Gigafactory Humanoid Deployment Phase 1",
+      "status": "IN_PROGRESS",
+      "startDate": "2024-05-10",
+      "endDate": "2024-09-15",
+      "objective": "Unveil autonomous pilot partnership with top-3 Indian automotive manufacturer in Pune and Chennai.",
+      "progress": 88,
+      "targetOutlets": [
+        "The Economic Times",
+        "Autocar Professional",
+        "Financial Express",
+        "Inc42",
+        "CNBC-TV18"
+      ],
+      "metrics": {
+        "mentions": 56,
+        "reach": "18.5M",
+        "engagement": "+125%",
+        "sentimentPercent": 94,
+        "trafficIncrease": "+92%"
+      },
+      "highlights": [
+        "Viral factory demonstration video achieved 3.8M organic views across LinkedIn & X",
+        "Syndicated coverage across 140+ national and regional Indian newspapers"
+      ]
+    },
+    {
+      "id": "cmp-4",
+      "clientId": "cli-3",
+      "clientName": "Samriddhi Sustainable Wealth",
+      "name": "2024 India ESG & Green Transition Alpha Report",
+      "status": "COMPLETED",
+      "startDate": "2024-02-01",
+      "endDate": "2024-05-30",
+      "objective": "Publish institutional research indexing climate alpha across Nifty 100 companies, catalyzing ₹3,200 Cr in new fund allocations.",
+      "progress": 100,
+      "targetOutlets": [
+        "Mint Money",
+        "The Economic Times",
+        "Business Standard",
+        "Moneycontrol",
+        "ET Now"
+      ],
+      "metrics": {
+        "mentions": 48,
+        "reach": "11.2M",
+        "engagement": "+52%",
+        "sentimentPercent": 98,
+        "trafficIncrease": "+41%"
+      },
+      "highlights": [
+        "Over 8,400 PDF downloads of whitepaper by institutional fund managers and family offices",
+        "Managing Director featured on ET Now closing bell debate on sustainable investments"
+      ]
+    },
+    {
+      "id": "cmp-5",
+      "clientId": "cli-4",
+      "clientName": "Veda Living & Design",
+      "name": "Heritage Craft & Circular Luxury Milan-Delhi Tour",
+      "status": "COMPLETED",
+      "startDate": "2024-03-01",
+      "endDate": "2024-05-15",
+      "objective": "Establish Veda as the premier Indian sustainable luxury design house combining Moradabad brass craft with zero-waste architecture.",
+      "progress": 100,
+      "targetOutlets": [
+        "Architectural Digest India",
+        "Elle Decor India",
+        "Vogue India",
+        "Mint Lounge",
+        "The Hindu"
+      ],
+      "metrics": {
+        "mentions": 39,
+        "reach": "6.8M",
+        "engagement": "+89%",
+        "sentimentPercent": 99,
+        "trafficIncrease": "+74%"
+      },
+      "highlights": [
+        "Awarded Best Sustainable Concept by Architectural Digest India Design Awards",
+        "Double-page spread in Mint Lounge lifestyle section"
+      ]
+    },
+    {
+      "id": "cmp-6",
+      "clientId": "cli-6",
+      "clientName": "Prithvi Green Hydrogen",
+      "name": "Gujarat 10GW Electrolyzer Gigafactory Announcement",
+      "status": "MEDIA_OUTREACH",
+      "startDate": "2024-06-20",
+      "endDate": "2024-10-01",
+      "objective": "Coordinate landmark national press contingent for India’s largest green hydrogen manufacturing corridor.",
+      "progress": 58,
+      "targetOutlets": [
+        "The Times of India",
+        "The Economic Times",
+        "Business Line",
+        "CNBC-TV18",
+        "Zee Business"
+      ],
+      "metrics": {
+        "mentions": 34,
+        "reach": "7.9M",
+        "engagement": "+68%",
+        "sentimentPercent": 93,
+        "trafficIncrease": "+55%"
+      },
+      "highlights": [
+        "Featured segment on CNBC-TV18 Special Energy Hour",
+        "Quoted in Ministry of New and Renewable Energy national policy briefings"
+      ]
+    }
+  ],
+  "pressReleases": [
+    {
+      "id": "pr-1",
+      "title": "Niramaya BioDiagnostics Closes ₹375 Cr Series B to Deploy AI Liquid Biopsy Across 150 Hospital Networks in India",
+      "subtitle": "Round led by Peak XV Partners with participation from Tata 1mg Founders Fund and Mayo Clinic Ventures.",
+      "slug": "niramaya-biodiagnostics-series-b",
+      "date": "2024-08-14",
+      "author": "Rajesh Malhotra",
+      "category": "Press Releases",
+      "featuredImage": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=1200",
+      "content": "NEW DELHI & BENGALURU — Niramaya BioDiagnostics, India’s pioneer in multi-omic AI diagnostic models for early-stage oncology, today announced the successful closing of its ₹375 Crore Series B financing round. The oversubscribed round was led by Peak XV Partners, with strategic participation from leading domestic healthcare syndicates and institutional investors.\n\nThe capital infusion will accelerate the national commercial rollout of Niramaya’s proprietary DeepBiomarker™ engine across 150+ hospital networks including AIIMS, Apollo Hospitals, Fortis, and Max Healthcare, reducing diagnostic turnaround from weeks to under 15 minutes.\n\n\"Every Indian patient deserves the power of early molecular detection before clinical symptoms manifest,\" said Dr. Alok Verma, Chief Scientific Officer of Niramaya BioDiagnostics. \"With this capital, we make non-invasive genetic oncology screening accessible and affordable across Tier-1 and Tier-2 Indian cities.\"\n\nClinical trial data validated DeepBiomarker's 98.4% specificity rate, surpassing conventional tissue biopsy sensitivity by 34% in early Stage I and II carcinomas.",
+      "boilerplate": "About Niramaya BioDiagnostics:\nNiramaya BioDiagnostics is an AI-powered biotechnology enterprise based in Bengaluru and New Delhi, transforming patient outcomes through rapid non-invasive genomic sequencing. The company collaborates with leading oncology centers across India.",
+      "mediaContact": {
+        "name": "Priya Sengupta, Senior Director",
+        "email": "niramaya@gsrelation.in",
+        "phone": "+91 88059 15047"
+      },
+      "status": "PUBLISHED",
+      "tags": [
+        "Healthcare",
+        "Series B",
+        "AI Biotech",
+        "Oncology",
+        "Funding",
+        "India"
+      ],
+      "views": 6420,
+      "downloads": 512,
+      "clientId": "cli-1"
+    },
+    {
+      "id": "pr-2",
+      "title": "BharatQuantum Demonstrates India’s First Room-Temperature Optical Interface for Cryogenic Quantum Processors",
+      "subtitle": "Breakthrough photonics interconnect engineered in Bengaluru eliminates thermal cabling latency by 90%.",
+      "slug": "bharatquantum-optical-interface-breakthrough",
+      "date": "2024-08-08",
+      "author": "Priya Sengupta",
+      "category": "Press Releases",
+      "featuredImage": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=1200",
+      "content": "PUNE & AMRAVATI — BharatQuantum Systems Pvt. Ltd. today unveiled India's first room-temperature optical interconnect capable of interfacing directly with sub-Kelvin cryogenic quantum processing units (QPUs).\n\nThe breakthrough architectural module, dubbed Param-Link-X™, enables banking data centers and research labs to cluster multiple quantum cores without thermal leakage or cryogenic vacuum loss.\n\n\"Until today, quantum processors remained isolated lab experiments,\" said Dr. Meera Nambiar, Founder & CEO of BharatQuantum. \"Param-Link-X transforms quantum computing into a scalable, high-throughput compute fabric designed for India's digital economy.\"",
+      "boilerplate": "About BharatQuantum Systems:\nBharatQuantum Systems develops modular, fault-tolerant quantum computing hardware for financial risk modeling, drug discovery, and national cybersecurity infrastructure.",
+      "mediaContact": {
+        "name": "Rajesh Malhotra, Managing Partner",
+        "email": "bharatquantum@gsrelation.in",
+        "phone": "+91 93738 31640"
+      },
+      "status": "PUBLISHED",
+      "tags": [
+        "Quantum Computing",
+        "DeepTech",
+        "National Quantum Mission",
+        "Hardware",
+        "Pune"
+      ],
+      "views": 7850,
+      "downloads": 680,
+      "clientId": "cli-2"
+    },
+    {
+      "id": "pr-3",
+      "title": "Garuda Robotics Deploys 500th Humanoid Unit Across Major Indian Automotive Assembly Lines",
+      "subtitle": "Indigenous industrial humanoids surpass 1,000,000 incident-free component handling cycles in Pune gigafactories.",
+      "slug": "garuda-robotics-500-units-deployed",
+      "date": "2024-07-28",
+      "author": "Priya Sengupta",
+      "category": "Company News",
+      "featuredImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+      "content": "PUNE & NASHIK — Garuda Robotics India today announced a watershed industrial milestone with the deployment of its 500th autonomous humanoid robot across top-tier automotive manufacturing assembly lines.\n\nOperating on Garuda's proprietary NeuralGait 4.0 spatial intelligence system, the humanoid fleet has logged over one million consecutive heavy-component transport cycles with a zero-incident safety record and 99.98% operational uptime.",
+      "boilerplate": "About Garuda Robotics India:\nGaruda Robotics builds heavy-payload, collaborative humanoid systems engineered specifically for complex Indian industrial manufacturing and warehousing environments.",
+      "mediaContact": {
+        "name": "Media Relations Desk",
+        "email": "garuda@gsrelation.in",
+        "phone": "+91 95274 47529"
+      },
+      "status": "PUBLISHED",
+      "tags": [
+        "Robotics",
+        "Make In India",
+        "Automation",
+        "AI",
+        "Automotive"
+      ],
+      "views": 5240,
+      "downloads": 410,
+      "clientId": "cli-5"
+    },
+    {
+      "id": "pr-4",
+      "title": "Prithvi Clean Energy Breaks Ground on 10GW Green Hydrogen Electrolyzer Facility in Kutch, Gujarat",
+      "subtitle": "Mega project aligned with National Green Hydrogen Mission to export zero-emission green ammonia to Europe & Japan.",
+      "slug": "prithvi-energy-10gw-green-hydrogen",
+      "date": "2024-07-10",
+      "author": "Rajesh Malhotra",
+      "category": "Company News",
+      "featuredImage": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&q=80&w=1200",
+      "content": "AHMEDABAD & PUNE — Prithvi Clean Energy Holdings today officially commenced construction of its 10-gigawatt (GW) integrated green hydrogen electrolyzer gigafactory in Kutch, Gujarat.\n\nThe facility represents an investment of ₹14,500 Crore and will utilize dedicated solar and wind power to produce 1.2 million metric tonnes of green ammonia annually by 2027.",
+      "boilerplate": "About Prithvi Clean Energy:\nPrithvi Clean Energy is a leading Indian renewable energy conglomerate driving gigawatt-scale solar, wind, and green hydrogen infrastructure projects across western India.",
+      "mediaContact": {
+        "name": "Rajesh Malhotra",
+        "email": "prithvi@gsrelation.in",
+        "phone": "+91 94218 32623"
+      },
+      "status": "PUBLISHED",
+      "tags": [
+        "Green Hydrogen",
+        "Sustainability",
+        "Gujarat",
+        "Renewable Energy",
+        "Infrastructure"
+      ],
+      "views": 4190,
+      "downloads": 350,
+      "clientId": "cli-6"
+    }
+  ],
+  "mediaCoverage": [
+    {
+      "id": "mc-1",
+      "publication": "The Economic Times",
+      "publicationTier": "Tier 1 National",
+      "headline": "Niramaya BioDiagnostics Secures ₹375 Cr Series B to Scale AI Oncology Testing in 150 Indian Hospitals",
+      "url": "https://economictimes.indiatimes.com/tech/niramaya-series-b-peak-xv-oncology",
+      "date": "2024-08-15",
+      "category": "Biotech & HealthTech",
+      "clientId": "cli-1",
+      "clientName": "Niramaya BioDiagnostics",
+      "campaignId": "cmp-1",
+      "campaignName": "Series B & AI Oncology Screening National Launch",
+      "reach": "3.8M",
+      "reachNumeric": 3800000,
+      "engagement": "14.2K shares",
+      "sentiment": "POSITIVE",
+      "quote": "Niramaya’s multi-cancer early screening algorithm represents a monumental leap forward for affordable precision medicine in India.",
+      "snippet": "Lead page-one technology feature detailing Niramaya’s clinical validation across AIIMS New Delhi and Apollo Hospitals.",
+      "author": "Pranav Mukul"
+    },
+    {
+      "id": "mc-2",
+      "publication": "Mint",
+      "publicationTier": "Tier 1 National",
+      "headline": "Quantum Beyond Hype: How Bengaluru’s BharatQuantum Is Powering India’s National Mission",
+      "url": "https://livemint.com/technology/bharatquantum-optical-core-india-quantum-mission",
+      "date": "2024-08-10",
+      "category": "Deep Technology",
+      "clientId": "cli-2",
+      "clientName": "BharatQuantum Dynamics",
+      "campaignId": "cmp-2",
+      "campaignName": "Commercial Cryo-Core Quantum Architecture Unveiling",
+      "reach": "2.9M",
+      "reachNumeric": 2900000,
+      "engagement": "9.8K shares",
+      "sentiment": "POSITIVE",
+      "quote": "Param-Link-X proves that sovereign Indian deeptech can out-innovate Western hardware incumbents in thermal efficiency.",
+      "snippet": "Extensive Sunday feature analyzing India’s quantum computing ecosystem and commercial banking testbeds.",
+      "author": "Leslie D’Monte"
+    },
+    {
+      "id": "mc-3",
+      "publication": "NDTV Profit",
+      "publicationTier": "Tier 1 Broadcast",
+      "headline": "Indian Humanoids Take Over Factory Floors: Inside Garuda Robotics’ 500-Unit Milestone",
+      "url": "https://ndtvprofit.com/tech/garuda-robotics-humanoids-auto-manufacturing",
+      "date": "2024-07-29",
+      "category": "Manufacturing & Robotics",
+      "clientId": "cli-5",
+      "clientName": "Garuda Robotics India",
+      "campaignId": "cmp-3",
+      "campaignName": "Gigafactory Humanoid Deployment Phase 1",
+      "reach": "4.5M",
+      "reachNumeric": 4500000,
+      "engagement": "28.4K shares",
+      "sentiment": "POSITIVE",
+      "quote": "Garuda Robotics proves that collaborative humanoids can slash automotive production downtime by over 38%.",
+      "snippet": "Televised 8-minute special broadcast from the Pune auto-assembly plant showcasing autonomous humanoid fleet operations.",
+      "author": "Sonal Mehrotra"
+    },
+    {
+      "id": "mc-4",
+      "publication": "Business Standard",
+      "publicationTier": "Tier 1 National",
+      "headline": "Samriddhi Wealth ESG Index Outperforms Nifty 50 with 18.4% Green Alpha",
+      "url": "https://business-standard.com/markets/samriddhi-wealth-esg-alpha-report-2024",
+      "date": "2024-05-18",
+      "category": "Markets & Wealth",
+      "clientId": "cli-3",
+      "clientName": "Samriddhi Sustainable Wealth",
+      "campaignId": "cmp-4",
+      "campaignName": "2024 India ESG & Green Transition Alpha Report",
+      "reach": "2.1M",
+      "reachNumeric": 2100000,
+      "engagement": "6.4K shares",
+      "sentiment": "POSITIVE",
+      "quote": "Samriddhi Asset Management provides the definitive quantitative roadmap for Indian institutional wealth to navigate transition risks.",
+      "snippet": "Detailed analysis of ESG fund performance and sovereign allocations across Indian infrastructure conglomerates.",
+      "author": "Ananya Roy"
+    },
+    {
+      "id": "mc-5",
+      "publication": "YourStory",
+      "publicationTier": "National Tech Press",
+      "headline": "From Stealth Lab to Front Page: Inside GSRelation’s PR Playbook for Indian Tech Unicorns",
+      "url": "https://yourstory.com/2024/06/pr-playbook-gsrelation-indian-tech-unicorns",
+      "date": "2024-06-18",
+      "category": "Startups & Scaleups",
+      "clientId": "cli-1",
+      "clientName": "GSRelation India",
+      "campaignId": "cmp-1",
+      "campaignName": "Series B & AI Oncology Screening National Launch",
+      "reach": "2.4M",
+      "reachNumeric": 2400000,
+      "engagement": "11.7K shares",
+      "sentiment": "POSITIVE",
+      "quote": "Founders must treat communications and media authority as a core strategic multiplier, not an afterthought.",
+      "snippet": "Feature interview with Rajesh Malhotra on national media strategy and crisis de-escalation for Indian startups.",
+      "author": "Shradha Sharma"
+    },
+    {
+      "id": "mc-6",
+      "publication": "CNBC-TV18",
+      "publicationTier": "Tier 1 Broadcast",
+      "headline": "Prithvi Clean Energy CEO on ₹14,000 Cr Kutch Green Hydrogen Gigafactory on Live Broadcast",
+      "url": "https://cnbctv18.com/energy/prithvi-clean-energy-gujarat-hydrogen-interview",
+      "date": "2024-07-12",
+      "category": "Energy & Infrastructure",
+      "clientId": "cli-6",
+      "clientName": "Prithvi Clean Energy",
+      "campaignId": "cmp-6",
+      "campaignName": "Gujarat 10GW Electrolyzer Gigafactory Announcement",
+      "reach": "3.6M",
+      "reachNumeric": 3600000,
+      "engagement": "15.2K shares",
+      "sentiment": "POSITIVE",
+      "quote": "Prithvi’s 10GW gigafactory is one of the most credible green energy infrastructure milestones in Asia this decade.",
+      "snippet": "Prime-time business broadcast interview evaluating export agreements with European utilities.",
+      "author": "Shereen Bhan"
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "cs-1",
+      "slug": "niramaya-biodiagnostics-series-b",
+      "title": "Transforming Stealth Indian AI Biotech into a National Oncology Pioneer",
+      "client": "Niramaya BioDiagnostics",
+      "industry": "Healthcare",
+      "campaignType": "Series B Announcement & Clinical Milestone",
+      "heroImage": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=1200",
+      "summary": "How GSRelation orchestrated an exclusive media blitz across The Economic Times, Mint, and CNBC-TV18, establishing Niramaya as India’s undisputed leader in AI liquid biopsy.",
+      "challenge": "Niramaya possessed world-class clinical data from AIIMS trials but was operating in complete stealth against multi-thousand crore diagnostic conglomerates. They needed to announce their ₹375 Cr Series B funding round while establishing undeniable scientific authority to onboard 150 hospital networks.",
+      "strategy": "We executed a multi-tiered embargo strategy: an exclusive front-page business feature in The Economic Times Tech bureau, accompanied by televised CEO interviews on CNBC-TV18 Young Turks and op-eds in Mint Lounge on clinical AI ethics.",
+      "execution": "Deployed our proprietary embargo management protocol across 45 senior Indian healthcare and business journalists. Coordinated simultaneous multi-city briefings across Amravati, Akola, Pune, and Nashik with complete media training and rapid-response quote orchestration.",
+      "results": {
+        "mentions": 62,
+        "reach": "12.4M",
+        "engagement": "+76%",
+        "traffic": "+64%",
+        "tier1Coverage": 22
+      },
+      "testimonial": {
+        "quote": "GSRelation did not just get us press; they engineered an authoritative national market posture that helped us sign 48 new hospital partnerships within 45 days of the announcement.",
+        "author": "Dr. Alok Verma",
+        "title": "Chief Scientific Officer",
+        "company": "Niramaya BioDiagnostics"
+      },
+      "featured": true,
+      "mediaOutlets": [
+        "The Economic Times",
+        "Mint",
+        "CNBC-TV18",
+        "NDTV Profit",
+        "YourStory",
+        "The Times of India"
+      ]
+    },
+    {
+      "id": "cs-2",
+      "slug": "garuda-robotics-humanoid-deployment",
+      "title": "From Lab Prototype to National Industrial Humanoid Dominance",
+      "client": "Garuda Robotics India",
+      "industry": "Technology",
+      "campaignType": "Product Launch & Commercial Milestone",
+      "heroImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200",
+      "summary": "Positioning Garuda’s humanoid robots as India’s first commercially deployed industrial workforce, achieving over 18.5M media impressions and a ₹450 Cr enterprise contract pipeline.",
+      "challenge": "The global robotics sector was clouded by CGI marketing and viral stunts. Garuda needed to prove real-world operational safety, Indian manufacturing resilience, and 1,000,000 incident-free cycles on real automotive factory floors.",
+      "strategy": "We invited senior industrial editors from NDTV Profit, The Economic Times, and Financial Express directly onto the automotive assembly lines in Pune for unscripted, on-record demonstrations of humanoids working alongside assembly technicians.",
+      "execution": "Synchronized documentary-style video releases with an in-depth PTI wire syndication across 140+ Indian publications, followed by technical analyst briefings with SIAM and NASSCOM leadership.",
+      "results": {
+        "mentions": 74,
+        "reach": "18.5M",
+        "engagement": "+125%",
+        "traffic": "+92%",
+        "tier1Coverage": 28
+      },
+      "testimonial": {
+        "quote": "The media transparency and war-room precision designed by GSRelation separated us instantly from the noise. Enterprise automotive buyers saw undeniable proof.",
+        "author": "Arjun Namboodiri",
+        "title": "VP of Commercial Robotics",
+        "company": "Garuda Robotics India"
+      },
+      "featured": true,
+      "mediaOutlets": [
+        "The Economic Times",
+        "NDTV Profit",
+        "Financial Express",
+        "Inc42",
+        "Autocar Professional",
+        "PTI Wire"
+      ]
+    },
+    {
+      "id": "cs-3",
+      "slug": "samriddhi-wealth-esg-alpha",
+      "title": "Repositioning Sustainable Indian Capital as an Irrefutable Alpha Generator",
+      "client": "Samriddhi Sustainable Wealth",
+      "industry": "Finance",
+      "campaignType": "Institutional Thought Leadership & Research PR",
+      "heroImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+      "summary": "Elevating institutional asset manager Samriddhi Wealth through an exhaustive Nifty 100 research benchmark that catalyzed ₹3,200 Cr in domestic and global ESG allocations.",
+      "challenge": "ESG investing in emerging markets was facing skepticism regarding return penalties. Samriddhi needed to prove through unimpeachable quantitative data that sustainable governance generated measurable excess returns in Indian equities.",
+      "strategy": "We transformed an 80-page econometric study into an executive narrative with interactive visual charts, booking key briefings with the Mint Money team and ET Now market anchors.",
+      "execution": "Distributed localized research findings across Amravati, Akola, Pune, and Nashik, paired with exclusive televised market commentary and an invitation-only round table dinner for chief investment officers.",
+      "results": {
+        "mentions": 52,
+        "reach": "11.2M",
+        "engagement": "+52%",
+        "traffic": "+41%",
+        "tier1Coverage": 19
+      },
+      "testimonial": {
+        "quote": "GSRelation understands the nuances of Indian capital markets and SEBI regulations. They translated complex regression models into front-page insights that directly drove ₹3,200 Cr in institutional allocations.",
+        "author": "Vikramaditya Shome",
+        "title": "Managing Director",
+        "company": "Samriddhi Wealth"
+      },
+      "featured": true,
+      "mediaOutlets": [
+        "Mint",
+        "The Economic Times",
+        "Business Standard",
+        "Moneycontrol",
+        "ET Now",
+        "CNBC-TV18"
+      ]
+    },
+    {
+      "id": "cs-4",
+      "slug": "prithvi-green-hydrogen-kutch",
+      "title": "Launching India’s Largest 10GW Green Hydrogen Corridor in Gujarat",
+      "client": "Prithvi Clean Energy Holdings",
+      "industry": "Energy & Corporate",
+      "campaignType": "Mega Infrastructure & Public Affairs PR",
+      "heroImage": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&q=80&w=1200",
+      "summary": "Orchestrating a landmark national communications campaign for a ₹14,500 Cr green hydrogen manufacturing hub, securing lead broadcast coverage across all major business channels.",
+      "challenge": "Navigating intense public scrutiny around renewable land allocation while clearly communicating complex electrolyzer export agreements to global energy markets.",
+      "strategy": "Positioned the Kutch project as the cornerstone of India’s energy independence and net-zero roadmap, hosting a credentialed on-site press contingent with live multi-camera satellite uplinks for national news channels.",
+      "execution": "Coordinated simultaneous press conferences in Gandhinagar and New Delhi with full ministerial protocol, high-res 4K drone B-roll distribution, and synchronized print features.",
+      "results": {
+        "mentions": 58,
+        "reach": "14.8M",
+        "engagement": "+84%",
+        "traffic": "+70%",
+        "tier1Coverage": 26
+      },
+      "testimonial": {
+        "quote": "GSRelation handled the high-stakes political, economic, and industrial press choreography with zero room for error. Their relationships with top energy editors are unparalleled.",
+        "author": "Devendra Parikh",
+        "title": "Head of Corporate Affairs",
+        "company": "Prithvi Clean Energy"
+      },
+      "featured": false,
+      "mediaOutlets": [
+        "The Times of India",
+        "The Economic Times",
+        "CNBC-TV18",
+        "Zee Business",
+        "Business Line"
+      ]
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "bp-1",
+      "title": "The Indian Media Landscape: Navigating Tier-1 Business Dailies and Prime-Time Television",
+      "slug": "indian-media-landscape-tier1-strategy",
+      "excerpt": "An insider look into how newsrooms at The Economic Times, Mint, and CNBC-TV18 evaluate technology and financial scoops in the modern Indian digital economy.",
+      "summary": "Understanding newsroom rhythms, embargo ethics, and on-record spokesperson guidelines in India’s hyper-competitive financial press corridors.",
+      "content": "Securing page-one editorial visibility in India requires far more than generic press releases. Modern business editors at publications like The Economic Times, Mint, and Business Standard sift through hundreds of pitches daily.\n\nTo capture genuine editorial attention, communications teams must follow three fundamental principles:\n\n1. Macro Alignment with National Priorities: Whether it is the National Quantum Mission, semiconductor fabrication, or green hydrogen corridors, anchor your corporate milestone to broader national and economic inflection points.\n2. Verified Data Integrity: Indian financial reporters demand verifiable unit economics, audited clinical data, or certified technical benchmarks. Claims lacking documentary backing are immediately discarded.\n3. Spokesperson Agility: News cycles move rapidly across Amravati, Akola, Pune, and Nashik. Senior executives must be available for immediate on-record interviews with concise, jargon-free talking points.",
+      "category": "Strategic Communications",
+      "author": {
+        "name": "Rajesh Malhotra",
+        "role": "Managing Partner",
+        "title": "Managing Partner & Former Bureau Chief",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=300"
+      },
+      "date": "2024-08-18",
+      "readTime": "5 min read",
+      "featuredImage": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1200",
+      "tags": [
+        "Media Relations",
+        "Strategy",
+        "Business Journalism",
+        "India PR"
+      ],
+      "popular": true,
+      "views": 4210
+    },
+    {
+      "id": "bp-2",
+      "title": "SEBI Compliance & The Art of the Pre-IPO Tech Narrative in India",
+      "slug": "sebi-compliance-tech-ipo-narrative",
+      "excerpt": "Navigating publicity guidelines, quiet-period protocols, and anchor investor communications ahead of Dalal Street listings.",
+      "summary": "A definitive guide for Indian founders and CFOs on managing media relations from DRHP filing through the NSE/BSE listing bell ceremony.",
+      "content": "Taking an Indian technology enterprise public is one of the most scrutinized milestones a founder will ever undertake. SEBI maintains rigorous regulations regarding public disclosures, forward-looking statements, and publicity during the DRHP review window.\n\nHere is how mature leadership teams structure their communications:\n\n• Unified Investor Relations & PR Alignment: Ensure all executive quotes mirror the exact disclosures filed in the Draft Red Herring Prospectus.\n• Proactive Stakeholder Education: Demystify your unit economics and category tailwinds well before entering the formal quiet period.\n• Listing Day Command: Orchestrate the BSE/NSE bell ceremony with multi-angle broadcast feeds and pre-cleared executive media schedules.",
+      "category": "Financial PR",
+      "author": {
+        "name": "Vikram Singhania",
+        "role": "Partner, Financial PR",
+        "title": "Partner & Head of Capital Markets Comms",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300"
+      },
+      "date": "2024-07-25",
+      "readTime": "7 min read",
+      "featuredImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&q=80&w=1200",
+      "tags": [
+        "IPO",
+        "SEBI",
+        "Dalal Street",
+        "Financial PR",
+        "Investor Relations"
+      ],
+      "popular": true,
+      "views": 5380
+    },
+    {
+      "id": "bp-3",
+      "title": "Crisis Communications War Room: The First 15 Minutes That Save Corporate Equity",
+      "slug": "crisis-communications-first-15-minutes",
+      "excerpt": "When a social media storm, regulatory audit, or technical outage hits, your immediate response protocol determines long-term enterprise reputation.",
+      "summary": "The battle-tested 15-minute triage protocol used by GSRelation for Fortune 500 and unicorn crisis management across India.",
+      "content": "In the era of viral social media outrage and 24/7 television business debates, an unaddressed crisis can erase hundreds of crores in enterprise valuation within hours.\n\nThe GSRelation Crisis War Room Protocol consists of:\n\n1. Instant Fact Triage: Mobilize legal, communications, and executive leadership within 15 minutes to establish uncontested facts.\n2. Holding Statement Deployment: Release a calm, empathetic, and factual statement acknowledging the situation while audits are underway.\n3. Direct Stakeholder Briefings: Engage key institutional investors, regulators, and customers before speculative reporting takes root.",
+      "category": "Crisis Management",
+      "author": {
+        "name": "Priya Sengupta",
+        "role": "Senior Director",
+        "title": "Senior Director, Media Relations",
+        "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=300"
+      },
+      "date": "2024-07-12",
+      "readTime": "6 min read",
+      "featuredImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=1200",
+      "tags": [
+        "Crisis PR",
+        "War Room",
+        "Reputation Management",
+        "Leadership"
+      ],
+      "popular": false,
+      "views": 3120
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t-1",
+      "clientName": "Dr. Alok Verma",
+      "position": "Chief Scientific Officer",
+      "company": "Niramaya BioDiagnostics",
+      "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300",
+      "quote": "GSRelation engineered an authoritative national media posture that directly accelerated our ₹375 Cr Series B round and helped us onboard 48 tier-1 hospital systems in two months.",
+      "rating": 5,
+      "metricsSnippet": "ET Front Page & 62 Tier-1 Placements",
+      "industry": "Healthcare"
+    },
+    {
+      "id": "t-2",
+      "clientName": "Dr. Meera Nambiar",
+      "position": "CEO & Founder",
+      "company": "BharatQuantum Systems",
+      "photo": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=300",
+      "quote": "Their scientific depth and relationships with Indian tech editors are unmatched. They translated quantum cryogenic computing into Mint lead features and NDTV Profit broadcasts with zero distortion.",
+      "rating": 5,
+      "metricsSnippet": "NDTV Broadcast & 8.6M Impressions",
+      "industry": "DeepTech"
+    },
+    {
+      "id": "t-3",
+      "clientName": "Vikramaditya Shome",
+      "position": "Managing Director",
+      "company": "Samriddhi Sustainable Wealth",
+      "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=300",
+      "quote": "In institutional finance, credibility is everything. GSRelation positioned our ESG research in Mint and ET Now, driving ₹3,200 Cr in domestic and sovereign wealth allocations.",
+      "rating": 5,
+      "metricsSnippet": "₹3,200 Cr Fund Inflow & Mint Feature",
+      "industry": "Finance"
+    },
+    {
+      "id": "t-4",
+      "clientName": "Arjun Namboodiri",
+      "position": "VP of Commercial Robotics",
+      "company": "Garuda Robotics India",
+      "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=300",
+      "quote": "They cut through the humanoid hype with brutal journalistic proof. Having NDTV Profit and ET on our factory floor generated an enterprise pipeline worth over ₹450 Cr.",
+      "rating": 5,
+      "metricsSnippet": "18.5M Impressions & PTI Syndicate",
+      "industry": "Robotics"
+    },
+    {
+      "id": "t-5",
+      "clientName": "Devendra Parikh",
+      "position": "Head of Corporate Affairs",
+      "company": "Prithvi Clean Energy",
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=300",
+      "quote": "When you are building mega-scale national green hydrogen infrastructure, you need fearless PR counsel. GSRelation guided our Gujarat gigafactory announcement flawlessly.",
+      "rating": 5,
+      "metricsSnippet": "CNBC-TV18 Live Feature & National Syndicate",
+      "industry": "Renewable Energy"
+    }
+  ],
+  "mediaAssets": [
+    {
+      "id": "ma-1",
+      "title": "GSRelation India Master Brand Vector Kit",
+      "type": "LOGOS",
+      "format": "SVG / EPS / PNG",
+      "size": "12.4 MB",
+      "dimensions": "Scalable Vector",
+      "downloadUrl": "#",
+      "previewUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=600",
+      "category": "Brand Guidelines",
+      "tags": [
+        "Logo",
+        "Vector",
+        "Branding",
+        "GSRelation India"
+      ],
+      "description": "Complete high-resolution vector lockups in dark navy, pure white, and royal blue accents, including monochrome and horizontal variants.",
+      "dateAdded": "2024-08-01"
+    },
+    {
+      "id": "ma-2",
+      "title": "Niramaya DeepBiomarker AI 4K Laboratory B-Roll Suite",
+      "type": "VIDEOS",
+      "format": "ProRes 422 / MP4 (4K)",
+      "size": "1.6 GB",
+      "duration": "04:15",
+      "downloadUrl": "#",
+      "previewUrl": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=600",
+      "category": "Client Press Kits",
+      "tags": [
+        "Healthcare",
+        "B-Roll",
+        "4K",
+        "Biotech",
+        "Laboratory"
+      ],
+      "description": "Broadcast-cleared 4K clean laboratory footage, robotic biomarker sequencing units, and UI captures for news broadcasts.",
+      "dateAdded": "2024-08-14"
+    },
+    {
+      "id": "ma-3",
+      "title": "BharatQuantum Param-Link-X Cryogenic Processor Photography (300 DPI)",
+      "type": "PHOTOS",
+      "format": "High-Res TIFF & JPEG",
+      "size": "128 MB",
+      "dimensions": "6000 x 4000 px",
+      "downloadUrl": "#",
+      "previewUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=600",
+      "category": "Client Photography",
+      "tags": [
+        "Quantum",
+        "Hardware",
+        "Cleanroom",
+        "Bengaluru"
+      ],
+      "description": "Studio photography of Param-Link-X optical interconnect module inside sub-Kelvin dilution refrigerator in Bengaluru.",
+      "dateAdded": "2024-08-08"
+    },
+    {
+      "id": "ma-4",
+      "title": "Garuda Robotics Humanoids in Automotive Factory Floor (Editorial Photos)",
+      "type": "PHOTOS",
+      "format": "RAW & JPEG 300 DPI",
+      "size": "195 MB",
+      "dimensions": "7952 x 5304 px",
+      "downloadUrl": "#",
+      "previewUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=600",
+      "category": "Client Photography",
+      "tags": [
+        "Robotics",
+        "Automotive",
+        "Factory",
+        "Humanoid",
+        "Pune"
+      ],
+      "description": "Official press-cleared photography of Garuda humanoids handling heavy components in Pune assembly plant.",
+      "dateAdded": "2024-07-28"
+    },
+    {
+      "id": "ma-5",
+      "title": "GSRelation India Executive Leadership Press Dossier 2024",
+      "type": "PRESS_KITS",
+      "format": "ZIP (PDF / High-Res Portraits)",
+      "size": "72 MB",
+      "downloadUrl": "#",
+      "previewUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=600",
+      "category": "Executive Press Kits",
+      "tags": [
+        "Leadership",
+        "Headshots",
+        "Biography",
+        "Girish Wakode",
+        "CEO & Director",
+        "Aditi Wankhade",
+        "Deputy CEO, Vice Managing Director & Co-Founder"
+      ],
+      "description": "Print-ready executive bios, authorized headshots, speaking topics, and past keynote recordings for CEO & Director Mr. Girish Wakode, Deputy CEO, Vice Managing Director & Co-Founder Aditi Wankhade, and senior partners.",
+      "dateAdded": "2024-07-15"
+    },
+    {
+      "id": "ma-6",
+      "title": "Samriddhi Wealth 2024 India ESG Alpha Full Research Whitepaper",
+      "type": "PRESS_KITS",
+      "format": "Interactive PDF / Raw Data CSV",
+      "size": "28 MB",
+      "downloadUrl": "#",
+      "previewUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=600",
+      "category": "Research & Reports",
+      "tags": [
+        "Finance",
+        "ESG",
+        "Whitepaper",
+        "Research",
+        "Nifty"
+      ],
+      "description": "Comprehensive 80-page econometric study with royalty-free chart graphics and data appendices for financial journalists.",
+      "dateAdded": "2024-06-25"
+    }
+  ],
+  "reports": [
+    {
+      "id": "rep-1",
+      "clientId": "cli-1",
+      "clientName": "Niramaya BioDiagnostics",
+      "title": "Series B National Media Impact & Broadcast Performance Report",
+      "period": "August 2024",
+      "generatedDate": "2024-08-20",
+      "keyHighlights": [
+        "Featured on The Economic Times Tech front page with 3.8M estimated national reach",
+        "Live 8-minute interview on CNBC-TV18 Young Turks business broadcast",
+        "62 total accredited media mentions with 97% positive sentiment score",
+        "Web referral traffic surged +64% directly attributing to hospital network partner inquiries"
+      ],
+      "metrics": {
+        "totalMentions": 62,
+        "totalReach": "12.4M",
+        "sentimentScore": "97% Positive",
+        "topOutlets": [
+          "The Economic Times",
+          "Mint",
+          "CNBC-TV18",
+          "NDTV Profit",
+          "YourStory"
+        ]
+      },
+      "summary": "The Series B funding announcement achieved top-percentile velocity for Indian healthcare biotechnology, establishing Niramaya as the benchmark for clinical AI diagnostics.",
+      "downloadFilename": "Niramaya_BioDiagnostics_Media_Report_Aug2024.pdf"
+    },
+    {
+      "id": "rep-2",
+      "clientId": "cli-2",
+      "clientName": "BharatQuantum Dynamics",
+      "title": "Quantum Cryo-Core Global Launch Telemetry & Coverage Review",
+      "period": "August 2024",
+      "generatedDate": "2024-08-18",
+      "keyHighlights": [
+        "Sunday feature cover story in Mint technology special edition",
+        "Special segment on NDTV Profit exploring National Quantum Mission synergies",
+        "Initiated 12 direct inquiries from Indian public & private sector banks for quantum risk modeling"
+      ],
+      "metrics": {
+        "totalMentions": 48,
+        "totalReach": "8.6M",
+        "sentimentScore": "95% Positive",
+        "topOutlets": [
+          "Mint",
+          "Business Standard",
+          "NDTV Profit",
+          "The Indian Express",
+          "TechCircle"
+        ]
+      },
+      "summary": "The launch of Param-Link-X positioned BharatQuantum as India’s sovereign deeptech contender for national security and BFSI compute architecture.",
+      "downloadFilename": "BharatQuantum_National_Launch_Report_2024.pdf"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-founder-1",
+      "name": "Mr. Girish Wakode",
+      "email": "girishwakode9@gmail.com",
+      "role": "ADMIN",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+      "title": "Founder & Director — GSRelation"
+    },
+    {
+      "id": "usr-admin-1",
+      "name": "Rajesh Malhotra",
+      "email": "rajesh.malhotra@gsrelation.in",
+      "role": "ADMIN",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=300",
+      "title": "Managing Partner & Head of Crisis & Regulatory Affairs"
+    },
+    {
+      "id": "usr-team-1",
+      "name": "Priya Sengupta",
+      "email": "priya.sengupta@gsrelation.in",
+      "role": "PR_TEAM",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=300",
+      "title": "Senior Director, National Media Relations & Broadcast"
+    },
+    {
+      "id": "usr-client-1",
+      "name": "Dr. Alok Verma",
+      "email": "averma@niramayabiotech.in",
+      "role": "CLIENT",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300",
+      "title": "Chief Scientific Officer, Niramaya BioDiagnostics",
+      "clientId": "cli-1"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "fullName": "Aarav Singhal",
+      "company": "Aether DeepBio India",
+      "email": "asinghal@aetherdeepbio.in",
+      "phone": "+91 98110 45210",
+      "serviceRequired": "Media Relations & Tier-1 National Placement",
+      "budgetRange": "₹5,00,000 - ₹10,00,000/mo",
+      "message": "We are closing a ₹250 Cr Series B in AI precision diagnostics and need a lead exclusive feature in The Economic Times, Mint, and CNBC-TV18.",
+      "status": "NEW",
+      "createdAt": "2026-09-28T14:44:07.907Z"
+    },
+    {
+      "id": "inq-2",
+      "fullName": "Sunita Chawla",
+      "company": "Vayu Orbital & Aerospace",
+      "email": "schawla@vayuorbital.in",
+      "phone": "+91 80 4912 3400",
+      "serviceRequired": "Product Launch & Tech Unveilings",
+      "budgetRange": "₹10,00,000+/mo",
+      "message": "Planning live demonstration of our low-Earth-orbit telecom satellite constellation during Bengaluru Tech Summit.",
+      "status": "QUALIFIED",
+      "createdAt": "2026-09-27T14:44:07.908Z"
+    }
+  ],
+  "consultations": [
+    {
+      "id": "con-1",
+      "name": "Rohan Mehra",
+      "company": "Kavach Quantum Security",
+      "email": "rohan.mehra@kavachquantum.io",
+      "phone": "+91 98200 78199",
+      "preferredDate": "2024-09-15",
+      "preferredTime": "11:00 AM IST",
+      "service": "Corporate Reputation & Executive Authority",
+      "projectDescription": "Establishing CEO thought leadership ahead of ₹180 Cr Series B round and TiEcon keynote.",
+      "status": "CONFIRMED",
+      "assignedDirector": "Rajesh Malhotra",
+      "meetingType": "STRATEGY_SESSION",
+      "meetingLink": "https://meet.google.com/gsr-kavach-sec",
+      "conversationNotes": "Initial discovery conversation on positioning Kavach as India’s premier post-quantum encryption protocol. Target publications: The Economic Times, Mint, and TechCircle.",
+      "createdAt": "2026-09-26T14:44:07.908Z"
+    },
+    {
+      "id": "con-2",
+      "name": "Sunita Chawla",
+      "company": "Vayu Orbital & Aerospace",
+      "email": "schawla@vayuorbital.in",
+      "phone": "+91 80 4912 3400",
+      "preferredDate": "2024-09-18",
+      "preferredTime": "03:30 PM IST",
+      "service": "Product Launch & Tech Unveilings",
+      "projectDescription": "Planning live demonstration of our low-Earth-orbit telecom satellite constellation during Bengaluru Tech Summit.",
+      "status": "PENDING",
+      "assignedDirector": "Priya Sengupta",
+      "meetingType": "DISCOVERY",
+      "meetingLink": "https://meet.google.com/gsr-vayu-launch",
+      "conversationNotes": "Inbound booking from website consultation form. Client requested focus on ISRO / IN-SPACe regulatory synergy and private space tier-1 coverage.",
+      "createdAt": "2026-09-27T14:44:07.908Z"
+    },
+    {
+      "id": "con-cli-1",
+      "clientId": "cli-1",
+      "clientName": "Niramaya BioDiagnostics",
+      "name": "Dr. Alok Verma",
+      "company": "Niramaya AI Therapeutics Ltd.",
+      "email": "averma@niramayabiotech.in",
+      "phone": "+91 98110 33400",
+      "preferredDate": "2024-09-10",
+      "preferredTime": "02:00 PM IST",
+      "service": "Media Relations & Tier-1 National Placement",
+      "projectDescription": "Bi-weekly strategic alignment on AIIMS clinical trial placement and CNBC-TV18 live executive interview.",
+      "status": "CONFIRMED",
+      "assignedDirector": "Priya Sengupta",
+      "meetingType": "STRATEGY_SESSION",
+      "meetingLink": "https://meet.google.com/niramaya-pr-sync",
+      "conversationNotes": "Confirmed CNBC-TV18 Young Turks segment talking points and approved PTI wire distribution timing.",
+      "createdAt": "2026-09-23T14:44:07.908Z"
+    },
+    {
+      "id": "con-cli-2",
+      "clientId": "cli-2",
+      "clientName": "BharatQuantum Dynamics",
+      "name": "Vikram Singhania",
+      "company": "BharatQuantum Systems Pvt. Ltd.",
+      "email": "media@bharatquantum.in",
+      "phone": "+91 98450 11290",
+      "preferredDate": "2024-09-14",
+      "preferredTime": "04:00 PM IST",
+      "service": "Crisis Communications & Reputation Armor",
+      "projectDescription": "Quarterly executive reputation review and upcoming MeitY quantum mission round-table preparation.",
+      "status": "CONFIRMED",
+      "assignedDirector": "Rajesh Malhotra",
+      "meetingType": "QUARTERLY_REVIEW",
+      "meetingLink": "https://meet.google.com/bharat-quantum-pr",
+      "conversationNotes": "Reviewed Q3 earned media yield (₹8.2 Cr EMV) and set media training schedule for CTO.",
+      "createdAt": "2026-09-24T14:44:07.908Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "senderId": "usr-team-1",
+      "senderName": "Priya Sengupta",
+      "senderRole": "PR_TEAM",
+      "recipientRole": "CLIENT",
+      "clientId": "cli-1",
+      "text": "Namaste Dr. Verma. The Economic Times lead feature just went live on page 1 of the Tech section and the digital homepage. Traffic is surging.",
+      "timestamp": "2026-09-28T10:44:07.908Z",
+      "isRead": true
+    },
+    {
+      "id": "msg-2",
+      "senderId": "usr-client-1",
+      "senderName": "Dr. Alok Verma",
+      "senderRole": "CLIENT",
+      "recipientRole": "PR_TEAM",
+      "clientId": "cli-1",
+      "text": "Phenomenal work Priya. We already received inbound partnership inquiries from Apollo Hospitals and AIIMS leadership.",
+      "timestamp": "2026-09-28T12:44:07.908Z",
+      "isRead": true
+    },
+    {
+      "id": "msg-3",
+      "senderId": "usr-team-1",
+      "senderName": "Priya Sengupta",
+      "senderRole": "PR_TEAM",
+      "recipientRole": "CLIENT",
+      "clientId": "cli-1",
+      "text": "Superb. We are prepping your talking points for the CNBC-TV18 Young Turks live broadcast spot tomorrow at 2:15 PM IST.",
+      "timestamp": "2026-09-28T14:14:07.908Z",
+      "isRead": false
+    }
+  ],
+  "activityLogs": [
+    {
+      "id": "act-1",
+      "timestamp": "2026-09-28T02:44:07.908Z",
+      "action": "PRESS_RELEASE_PUBLISHED",
+      "actor": "Priya Sengupta (Senior Director)",
+      "category": "PRESS_RELEASE",
+      "details": "Dispatched national PTI wire for BharatQuantum Dynamics commercial cryogenic release."
+    },
+    {
+      "id": "act-2",
+      "timestamp": "2026-09-28T08:44:07.908Z",
+      "action": "CLIENT_ONBOARDED",
+      "actor": "Rajesh Malhotra (Managing Partner)",
+      "category": "CLIENT",
+      "details": "Initiated retainer onboarding for Kaveri FinTech Solutions (₹5.5L/mo)."
+    },
+    {
+      "id": "act-3",
+      "timestamp": "2026-09-28T12:44:07.908Z",
+      "action": "INQUIRY_RECEIVED",
+      "actor": "System Gateway",
+      "category": "INQUIRY",
+      "details": "New inbound retainer inquiry from Aether DeepBio India."
+    }
+  ]
+}
